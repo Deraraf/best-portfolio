@@ -3,7 +3,7 @@ import "./globals.css";
 import { ThemeProvider } from "next-themes";
 
 export const metadata = {
-  title: "My Portfolio",
+  title: "Derara.dev",
   description: "Built with Next.js 15",
 };
 
