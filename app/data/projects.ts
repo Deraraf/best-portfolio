@@ -20,7 +20,7 @@ const projects = [
     description:
       "A responsive e-commerce website built with React, Redux, Express, TailwindCSS, and MongoDB.",
     tech: ["React", "TailwindCSS", "Redux", "Express", "MongoDB"],
-    github: "https://github.com/Deraraf/e-commerceapp",
+    github: "https://github.com/Deraraf/webdevblog",
     demo: "https://webdevblog-1.onrender.com",
   },
 ];
