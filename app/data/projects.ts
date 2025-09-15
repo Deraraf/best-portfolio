@@ -12,7 +12,7 @@ const projects = [
     description:
       " building and deploying a fullstack multi user blog platform",
     tech: ["Next", "TailwindCSS", "Socket.io", "Postgresql"],
-    github: "https://github.com/Deraraf/",
+    github: "https://github.com/Deraraf/e-commerceapp",
     demo: "https://e-commerce-app-frontend-orcin.vercel.app",
   },
   {
